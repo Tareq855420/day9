@@ -1,0 +1,12 @@
+.slider-height {
+    height: 550px;
+}
+/*!*.carousel-caption {*!*/
+/*!*    margin: 200px;*!*/
+/*!*    background: rgba(0,0,0,0.5);*!*/
+/*}*/
+.my-caption {
+    background: rgba(0,0,0,0.3);
+    bottom: 200px;
+
+}
